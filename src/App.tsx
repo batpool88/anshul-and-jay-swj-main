@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { Trophy, Users, Calendar, MapPin, Zap, Star, User, Mail, Phone, Briefcase } from 'lucide-react';
+import { Trophy, Users, Calendar, MapPin, Zap, Star, User, Mail, Phone } from 'lucide-react';
 import './arcade-styles.css';
 
 export default function StartupWeekendJaipur() {
